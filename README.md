@@ -1,7 +1,7 @@
 # Política de Privacidad — AhorraPe
 
 **Última actualización:** 13 de mayo de 2026  
-**Desarrollador:** ManuPrimeStudio  
+**Desarrollador:** Manu Prime Studio  
 **Nombre de la aplicación:** AhorraPe  
 **Paquete:** com.manuprimestudio.ahorrape
 
