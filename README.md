@@ -109,7 +109,7 @@ Implementamos las siguientes medidas de seguridad:
 
 ## 8. Menores de Edad
 
-La Aplicación no está dirigida a menores de 13 años. No recopilamos intencionalmente información de niños menores de 13 años. Si eres padre o tutor y crees que tu hijo nos ha proporcionado información, contáctanos para que podamos tomar las medidas necesarias.
+La Aplicación no está dirigida a menores de 18 años. No recopilamos intencionalmente información de niños menores de 13 años. Si eres padre o tutor y crees que tu hijo nos ha proporcionado información, contáctanos para que podamos tomar las medidas necesarias.
 
 ---
 
